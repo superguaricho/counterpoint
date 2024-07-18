@@ -1,6 +1,6 @@
 # counterpoint
 
-Materials for my work on counterpoint.
+Youyou Cong's materials for her work on counterpoint.
 
 There are two related videos on YouTube:
 
